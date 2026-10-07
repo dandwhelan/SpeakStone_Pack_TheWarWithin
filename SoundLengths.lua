@@ -1888,6 +1888,7 @@ SpeakStoneSoundLengths_Pack_TheWarWithin = {
     ["82377_description.ogg"] = 9.51,
     ["82378_description.ogg"] = 6.07,
     ["82379_description.ogg"] = 6.67,
+    ["82381_completion.ogg"] = 4.72,
     ["82381_description.ogg"] = 8.09,
     ["82382_description.ogg"] = 11.30,
     ["82383_description.ogg"] = 5.76,
