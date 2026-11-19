@@ -2950,6 +2950,7 @@ local T = {
 ["85195_progress"]="14",
 ["85208_completion"]="24",
 ["85208_description"]="15",
+["85212_completion"]="32,63,84,102",
 ["85212_description"]="15,58,80,103,125",
 ["85213_completion"]="46,71",
 ["85213_description"]="n38,82,101",
